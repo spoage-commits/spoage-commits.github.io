@@ -37,3 +37,14 @@ nav a:hover {
     text-decoration: underline;
     text-align: center;
 }
+
+.button {
+    width: 250px; 
+    height: 60px; 
+    padding: 10px; 
+    font-size: 16px;
+    border-radius: 7px;
+    margin-right: 10px; 
+    background-color: whitesmoke;
+    border-color: #d3d3d3;
+}
