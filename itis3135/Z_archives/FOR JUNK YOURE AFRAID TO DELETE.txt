@@ -1,0 +1,35 @@
+ <!-- course work home -->
+    <!--
+    <h2 class="h2">Course Work</h2>
+    <p>Here you will find my upcoming coursework: <a href="itis3135.html">Link to Course Page</a> </p>
+    -->
+
+<!-- Link to stylesheet -->
+    <link rel="stylesheet" href="itis3135/Styles/default.css">
+    
+    <!-- Course page links -->
+    <!-- <a href="">CLT Webspace</a> | <a href="">Github.io</a> | <a href="">Github</a> | <a href="">freeCodeCamp</a> | <a href="">Codeacademy</a> | <a href="">Linkedln</a>
+    -->
+    <!-- 
+    <a href="https://webpages.charlotte.edu/spoage/">
+        Webpage link
+    </a>
+    -->
+
+    <!-- Your buttons are here -->
+    <!--
+    <button class="button" type="button" onclick="window.open('https://validator.w3.org/check?uri=' + encodeURIComponent(location.href))">
+    HTML Validator
+    </button>
+
+    <button class="button" type="button" onclick="window.open('https://jigsaw.w3.org/css-validator/validator?uri=' + encodeURIComponent(location.href))">
+    CSS Validator
+    </button>
+    -->
+
+     <!-- Website links go here -->
+    <!--
+     <nav class="nav">
+         <a href="">Home</a> | <a href="">Introduction</a> | <a href="">About</a> | <a href="itis3135/contract.html">Contract</a>
+     </nav>
+    -->

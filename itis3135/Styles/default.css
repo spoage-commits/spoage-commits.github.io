@@ -1,28 +1,36 @@
-.header {
-    text-align: center;
-    padding: 20px 0;
-    background-color: #b03060;
-    color: #ffe4ec;
+* {
+    box-sizing: border-box;
 }
 
-.body {
-    background-color: #ffe4ec;
+element {
+    padding: 15px 20px; 
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #8e24aa;
+    color: #ce93d8;
+}
+
+body {
+    background-color: #e8bcf0;
     color: #333;
     line-height: 1.6;
     text-align: center;
 }
 
-.h2 {
-    color: #b03060;
+h2 {
+    color: #4a148c;
     text-align: center;
 }
 
-.footer {
-    background-color: #b03060;
+footer {
+    background-color: #8e24aa;
     text-align: center;
     padding: 15px;
     margin-top: 30px;
-    color: #ffe4ec;
+    color: #ce93d8;
 }
 
 nav a{
@@ -38,13 +46,12 @@ nav a:hover {
     text-align: center;
 }
 
-.button {
-    width: 250px; 
-    height: 60px; 
-    padding: 10px; 
-    font-size: 16px;
-    border-radius: 7px;
-    margin-right: 10px; 
-    background-color: whitesmoke;
-    border-color: #d3d3d3;
+.contract-paragraph {
+    text-align: left;
+    margin: 20px auto;
+    max-width: 1000px;
+    font-size: 6mm;
+    display: inline-block;
+    border:3px solid white;
+    padding: 40px;
 }
